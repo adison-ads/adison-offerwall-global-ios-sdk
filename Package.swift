@@ -20,7 +20,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "AdisonOfferwallGlobalSDK",
-            url: "https://github.com/adison-ads/adison-offerwall-global-ios-sdk/releases/download/v0.5.0/AdisonOfferwallGlobalSDK.zip",
-            checksum: "c7e1366c6c6007e44d2489a350af97dfaf2cbaa0242ca19de2a2117175653f59")
+            url: "https://github.com/adison-ads/adison-offerwall-global-ios-sdk/releases/download/v0.5.2/AdisonOfferwallGlobalSDK.zip",
+            checksum: "b286598ae04e2ceb323ad40135274d2c3a61a3ad86388e0c48c7f1b76e1837dc")
     ]
 )
